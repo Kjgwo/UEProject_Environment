@@ -1,0 +1,1789 @@
+﻿Log file open, 07/12/22 14:52:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=7912)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Desert
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\UEproject1\UEProject_Environment\Desert\Desert.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.739] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8ecb2c2041807039c6c04c93dbf219e5"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.694624
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F320B66B4824338A3A63EFAADE2751F0
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.739] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.12-05.52.26:172][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.12-05.52.26:172][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.12-05.52.26:172][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.12-05.52.26:172][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.12-05.52.26:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.12-05.52.26:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.12-05.52.26:173][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.12-05.52.26:176][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.12-05.52.26:199][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.12-05.52.26:199][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.12-05.52.26:418][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.12-05.52.26:418][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 8099MB of shared system memory, 1 output[s]
+[2022.07.12-05.52.26:441][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.07.12-05.52.26:441][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8099MB of shared system memory, 0 output[s]
+[2022.07.12-05.52.26:450][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.12-05.52.26:450][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8099MB of shared system memory, 0 output[s]
+[2022.07.12-05.52.26:450][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.12-05.52.26:451][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.12-05.52.26:451][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.12-05.52.26:451][  0]LogHAL: Display: Platform has ~ 16 GB [16985128960 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.12-05.52.26:451][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.12-05.52.26:451][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.12-05.52.26:451][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.12-05.52.26:451][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.12-05.52.26:451][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/UEproject1/UEProject_Environment/Desert/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.12-05.52.26:451][  0]LogInit: Computer: DESKTOP-TDB73L1
+[2022.07.12-05.52.26:451][  0]LogInit: User: 201710911
+[2022.07.12-05.52.26:451][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.07.12-05.52.26:451][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.12-05.52.26:452][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.07.12-05.52.26:452][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.12-05.52.26:452][  0]LogMemory: Process Physical Memory: 273.56 MB used, 295.99 MB peak
+[2022.07.12-05.52.26:452][  0]LogMemory: Process Virtual Memory: 226.73 MB used, 226.73 MB peak
+[2022.07.12-05.52.26:452][  0]LogMemory: Physical Memory: 6961.28 MB used,  9237.00 MB free, 16198.28 MB total
+[2022.07.12-05.52.26:452][  0]LogMemory: Virtual Memory: 10054.84 MB used,  8575.45 MB free, 18630.28 MB total
+[2022.07.12-05.52.26:452][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.12-05.52.26:459][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.12-05.52.26:478][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.12-05.52.26:479][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2022.07.12-05.52.26:479][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.07.12-05.52.26:632][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.12-05.52.26:664][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.12-05.52.26:664][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 한컴 입력기 (TSF IME).
+[2022.07.12-05.52.26:664][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.07.12-05.52.26:664][  0]LogWindowsTextInputMethodSystem:   - 영어(미국) - (Keyboard).
+[2022.07.12-05.52.26:664][  0]LogWindowsTextInputMethodSystem:   - 일본어(일본) - Microsoft 입력기 (TSF IME).
+[2022.07.12-05.52.26:665][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.07.12-05.52.26:677][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.12-05.52.26:677][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.12-05.52.26:801][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.12-05.52.26:805][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.12-05.52.26:805][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.12-05.52.26:901][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.12-05.52.27:003][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.12-05.52.27:011][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.12-05.52.27:036][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.12-05.52.27:060][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.12-05.52.27:060][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.12-05.52.27:103][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.12-05.52.27:103][  0]LogWindows: Attached monitors:
+[2022.07.12-05.52.27:103][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.07.12-05.52.27:103][  0]LogWindows: Found 1 attached monitors.
+[2022.07.12-05.52.27:103][  0]LogWindows: EnumDisplayDevices:
+[2022.07.12-05.52.27:103][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.07.12-05.52.27:104][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.07.12-05.52.27:104][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.12-05.52.27:104][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.12-05.52.27:104][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.07.12-05.52.27:104][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.07.12-05.52.27:105][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.07.12-05.52.27:105][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.07.12-05.52.27:105][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.07.12-05.52.27:105][  0]LogD3D12RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.07.12-05.52.27:105][  0]LogD3D12RHI:      Driver Date: 2-10-2022
+[2022.07.12-05.52.27:105][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2022.07.12-05.52.27:105][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.12-05.52.27:105][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.12-05.52.27:117][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.12-05.52.27:125][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/UEproject1/UEProject_Environment/Desert/Desert.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/UEproject1/UEProject_Environment/Desert/Intermediate/TurnkeyReport_0.log" -log="C:/UEproject1/UEProject_Environment/Desert/Intermediate/TurnkeyLog_0.log" -project="C:/UEproject1/UEProject_Environment/Desert/Desert.uproject"  -platform=all'
+[2022.07.12-05.52.27:125][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/UEproject1/UEProject_Environment/Desert/Desert.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/UEproject1/UEProject_Environment/Desert/Intermediate/TurnkeyReport_0.log" -log="C:/UEproject1/UEProject_Environment/Desert/Intermediate/TurnkeyLog_0.log" -project="C:/UEproject1/UEProject_Environment/Desert/Desert.uproject"  -platform=all" ]
+[2022.07.12-05.52.27:153][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.12-05.52.27:165][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.12-05.52.27:165][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.12-05.52.27:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.12-05.52.27:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.12-05.52.27:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.12-05.52.27:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.12-05.52.27:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.12-05.52.27:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.12-05.52.27:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.12-05.52.27:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.12-05.52.27:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.12-05.52.27:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.12-05.52.27:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.12-05.52.27:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.12-05.52.27:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.12-05.52.27:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.12-05.52.27:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.12-05.52.27:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.12-05.52.27:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.12-05.52.27:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.12-05.52.27:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.12-05.52.27:230][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.12-05.52.27:241][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.12-05.52.27:244][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.12-05.52.27:244][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.12-05.52.27:244][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.12-05.52.27:244][  0]LogTargetPlatformManager:   PCM
+[2022.07.12-05.52.27:248][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.12-05.52.27:248][  0]LogTargetPlatformManager:   BINKA
+[2022.07.12-05.52.27:248][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.12-05.52.27:248][  0]LogTargetPlatformManager:   OGG
+[2022.07.12-05.52.27:248][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.12-05.52.27:248][  0]LogTargetPlatformManager:   OPUS
+[2022.07.12-05.52.27:305][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.12-05.52.27:305][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.12-05.52.27:312][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.12-05.52.27:316][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.12-05.52.27:316][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.12-05.52.27:316][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.12-05.52.27:316][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.12-05.52.27:316][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.12-05.52.27:316][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.12-05.52.27:316][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.12-05.52.27:316][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.12-05.52.27:316][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UEproject1/UEProject_Environment/Desert/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.12-05.52.27:317][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.12-05.52.27:317][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UEproject1/UEProject_Environment/Desert/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.12-05.52.27:317][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.12-05.52.27:321][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UEproject1/UEProject_Environment/Desert/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.12-05.52.27:321][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.12-05.52.27:321][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UEproject1/UEProject_Environment/Desert/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.12-05.52.27:321][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.12-05.52.27:343][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.07.12-05.52.27:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.12-05.52.27:343][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.12-05.52.27:353][  0]LogDerivedDataCache: Speed tests for C:/Users/201710911/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.12-05.52.27:353][  0]LogDerivedDataCache: Display: Performance to C:/Users/201710911/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=234.81MBs, RandomWriteSpeed=167.82MBs. Assigned SpeedClass 'Local'
+[2022.07.12-05.52.27:354][  0]LogDerivedDataCache: Using Local data cache path C:/Users/201710911/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.12-05.52.27:354][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.12-05.52.27:354][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.12-05.52.27:363][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.12-05.52.27:363][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.12-05.52.27:363][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../UEproject1/UEProject_Environment/Desert/Intermediate/Shaders/WorkingDirectory/14788/).
+[2022.07.12-05.52.27:363][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/201710911/AppData/Local/Temp/UnrealShaderWorkingDir/65D419554959FFD02552119F0114903C/'.
+[2022.07.12-05.52.27:363][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.12-05.52.27:363][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.07.12-05.52.28:986][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.12-05.52.28:986][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.12-05.52.29:029][  0]LogAssetRegistry: FAssetRegistry took 0.0166 seconds to start up
+[2022.07.12-05.52.29:034][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.12-05.52.29:271][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.12-05.52.29:272][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.12-05.52.29:629][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.12-05.52.29:629][  0]LogDeviceProfileManager: Active device profile: [0000068CE47A0380][0000068CDB9C0000 50] WindowsEditor
+[2022.07.12-05.52.29:629][  0]LogDeviceProfileManager: Profiles: [0000068CE3E3FDC0][0000068CC5F25000 50] Windows, [0000068CE47A0380][0000068CDB9C0000 50] WindowsEditor, [0000068CE47A2A00][0000068CE4790000 50] WindowsServer, [0000068CE47A2840][0000068CE4795000 50] WindowsClient, [0000068CE47A2140][0000068CE4797800 50] IOS, [0000068CE47A1F80][0000068CE479A000 50] iPadAir2, [0000068CE47A55C0][0000068CDB9C2800 50] IPadPro, [0000068CE47A5940][0000068CE479C800 50] iPadAir3, [0000068CE47A39C0][0000068CE4770000 50] iPadAir4, [0000068CE47A0A80][0000068CE4775000 50] iPadMini4, [0000068CE47A0C40][0000068CE4777800 50] iPadMini5, [0000068CE47A4D00][0000068CE477A000 50] iPadMini6, [0000068CE47A8880][0000068CE4810000 50] iPhone6S, [0000068CE47A8C00][0000068CE4812800 50] iPhone7, [0000068CE47A8500][0000068CE4815000 50] iPodTouch7, [0000068CE47A1180][0000068CE481A000 50] iPhone6SPlus, [0000068CE47A2F40][0000068CE481C800 50] iPhone7Plus, [0000068CE47A2BC0][0000068CE4792800 50] iPhoneSE, [0000068CE47A6580][0000068CE477C800 50] iPhone8, [0000068CE47A1A40][0000068CE4817800 50] iPhone8Plus, [0000068CE47A5780][0000068CE47B0000 50] iPhoneX, [0000068CE47A1880][0000068CE47B5000 50] iPhoneXS, [0000068CE47A5400][0000068CE47B7800 50] iPhoneXSMax, [0000068CE47A16C0][0000068CE47BA000 50] iPhoneXR, [0000068CE47A0E00][0000068CE47BC800 50] iPhone11, [0000068CE47A5240][0000068CE4772800 50] iPhone11Pro, [0000068CE47A3640][0000068CE47C0000 50] iPhone11ProMax, [0000068CE47A01C0][0000068CE47C5000 50] iPhoneSE2, [0000068CE47A0FC0][0000068CE47C7800 50] iPhone12Mini, [0000068CE47A1500][0000068CE47CA000 50] iPhone12, [0000068CE47A6740][0000068CE47CC800 50] iPhone12Pro, [0000068CE47A3100][0000068CE47B2800 50] iPhone12ProMax, [0000068CE47A7E00][0000068CE47D0000 50] iPhone13Mini, [0000068CE47A40C0][0000068CE47D5000 50] iPhone13, [0000068CE47A7FC0][0000068CE47D7800 50] iPhone13Pro, [0000068CE47A1DC0][0000068CE47DA000 50] iPhone13ProMax, [0000068CE47A7A80][0000068CE47DC800 50] iPadPro105, [0000068CE47A5E80][0000068CE47C2800 50] iPadPro129, [0000068CE47A0700][0000068CE4820000 50] iPadPro97, [0000068CE47A4EC0][0000068CE4825000 50] iPadPro2_129, [0000068CE47A4280][0000068CE4827800 50] iPad5, [0000068CE47A71C0][0000068CE482A000 50] iPad6, [0000068CE47A6040][0000068CE482C800 50] iPad7, [0000068CE47A7540][0000068CE47D2800 50] iPad8, [0000068CE47A2D80][0000068CE4830000 50] iPad9, [0000068CE47A63C0][0000068CE4835000 50] iPadPro11, [0000068CE47A86C0][0000068CE4837800 50] iPadPro2_11, [0000068CE47A6AC0][0000068CE483A000 50] iPadPro3_11, [0000068CE47A47C0][0000068CE483C800 50] iPadPro3_129, [0000068CE47A1C00][0000068CE4822800 50] iPadPro4_129, [0000068CE47A08C0][0000068CE4840000 50] iPadPro5_129, [0000068CE47A4980][0000068CE4845000 50] AppleTV, [0000068CE47A4440][0000068CE4847800 50] AppleTV4K, [0000068CE47A5B00][0000068CE484A000 50] TVOS, [0000068CE47AA640][0000068CE4832800 50] Mac, [0000068CE47AA9C0][0000068CE484C800 50] MacEditor, [0000068CE47A0540][0000068CE4850000 50] MacClient, [0000068CE47A1340][0000068CE4855000 50] MacServer, [0000068CE47AAD40][0000068CE485A000 50] Linux, [0000068CE47AB0C0][0000068CE4857800 50] LinuxEditor, [0000068CE47AA2C0][0000068CE485C800 50] LinuxArm64Editor, [0000068CE47A8340][0000068CE4842800 50] LinuxArm64, [0000068CE47A3B80][0000068CE4860000 50] LinuxClient, [0000068CE47AAB80][0000068CE4865000 50] LinuxArm64Client, [0000068CE47A6900][0000068CE4867800 50] LinuxServer, [0000068CE47AA480][0000068CE486A000 50] LinuxArm64Server, [0000068CE47A6200][0000068CE486C800 50] Android, [0000068CE47A9A00][0000068CE4852800 50] Android_Preview_OpenGL, [0000068CE47A5080][0000068CE4870000 50] Android_Preview_Vulkan, [0000068CE47A7700][0000068CE4875000 50] Android_Low, [0000068CE47A8180][0000068CE4877800 50] Android_Mid, [0000068CE47AB7C0][0000068CE487A000 50] Android_High, [0000068CE47A9680][0000068CE487C800 50] Android_Default, [0000068CE47A9BC0][0000068CE4862800 50] Android_Adreno4xx, [0000068CE47AA800][0000068CE4880000 50] Android_Adreno5xx_Low, [0000068CE47A9F40][0000068CE4885000 50] Android_Adreno5xx, [0000068CE47A8DC0][0000068CE4887800 50] Android_Adreno6xx, [0000068CE47A6E40][0000068CE488A000 50] Android_Adreno6xx_Vulkan, [0000068CE47A3F00][0000068CE488C800 50] Android_Adreno7xx, [0000068CE47A9D80][0000068CE4872800 50] Android_Adreno7xx_Vulkan, [0000068CE47A7380][0000068CE4890000 50] Android_Mali_T6xx, [0000068CE47A4B40][0000068CE4895000 50] Android_Mali_T7xx, [0000068CE47A24C0][0000068CE4897800 50] Android_Mali_T8xx, [0000068CE47A3800][0000068CE489A000 50] Android_Mali_G71, [0000068CE47A8F80][0000068CE489C800 50] Android_Mali_G72, [0000068CE47A78C0][0000068CE4882800 50] Android_Mali_G72_Vulkan, [0000068CE47A3480][0000068CE48A0000 50] Android_Mali_G76, [0000068CE47A7C40][0000068CE48A5000 50] Android_Mali_G76_Vulkan, [0000068CE47ABEC0][0000068CE48A7800 50] Android_Mali_G77, [0000068CE47AA100][0000068CE48AA000 50] Android_Mali_G77_Vulkan, [0000068CE47A5CC0][0000068CE48AC800 50] Android_Mali_G78, [0000068CE47ABB40][0000068CE4892800 50] Android_Mali_G78_Vulkan, [0000068CE47A2300][0000068CE48B0000 50] Android_Mali_G710, [0000068CE47A2680][0000068CE48B5000 50] Android_Mali_G710_Vulkan, [0000068CE47A7000][0000068CE48B7800 50] Android_Xclipse_920, [0000068CE47A4600][0000068CE48BA000 50] Android_Xclipse_920_Vulkan, [0000068CE47AC400][0000068CE48BC800 50] Android_Vulkan_SM5, [0000068CE47AC940][0000068CE48A2800 50] Android_PowerVR_G6xxx, [0000068CE47ADAC0][0000068CE48C0000 50] Android_PowerVR_GT7xxx, [0000068CE47ACB00][0000068CE48C5000 50] Android_PowerVR_GE8xxx, [0000068CE47A94C0][0000068CE48C7800 50] Android_PowerVR_GM9xxx, [0000068CE47AD040][0000068CE48CA000 50] Android_PowerVR_GM9xxx_Vulkan, [0000068CE47A8A40][0000068CE48CC800 50] Android_TegraK1, [0000068CE47AC780][0000068CE48B2800 50] Android_Unknown_Vulkan, [0000068CE47AB280][0000068CE48D0000 50] Oculus_Quest, [0000068CE47ADC80][0000068CE48D5000 50] Oculus_Quest2, [0000068CE47AB440][0000068CE48D7800 50] HoloLens, 
+[2022.07.12-05.52.29:629][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.12-05.52.29:656][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.12-05.52.29:888][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.12-05.52.29:888][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.12-05.52.29:888][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.12-05.52.29:888][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.12-05.52.29:888][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.12-05.52.29:906][  0]LogNetVersion: Desert 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1320634237)
+[2022.07.12-05.52.30:052][  0]LogSlate: Border
+[2022.07.12-05.52.30:052][  0]LogSlate: BreadcrumbButton
+[2022.07.12-05.52.30:052][  0]LogSlate: Default
+[2022.07.12-05.52.30:052][  0]LogSlate: Icons.Save
+[2022.07.12-05.52.30:052][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.12-05.52.30:052][  0]LogSlate: ListView
+[2022.07.12-05.52.30:052][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.12-05.52.30:052][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.12-05.52.30:052][  0]LogSlate: TableView.DarkRow
+[2022.07.12-05.52.30:052][  0]LogSlate: TableView.Row
+[2022.07.12-05.52.30:052][  0]LogSlate: TreeView
+[2022.07.12-05.52.30:255][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.07.12-05.52.30:288][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.07.12-05.52.30:288][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.07.12-05.52.30:427][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.07.12-05.52.30:427][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.07.12-05.52.30:427][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.12-05.52.30:871][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2BE02CA64D41FDAC569A92B2C005FA0E | Instance: 9FE30F484F1B890262DE9C903F7DDBE1 (DESKTOP-TDB73L1-14788).
+[2022.07.12-05.52.30:920][  0]LogPython: Using Python 3.9.7
+[2022.07.12-05.52.31:900][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.12-05.52.31:908][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.12-05.52.32:273][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.07.12-05.52.32:282][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.07.12-05.52.32:291][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.07.12-05.52.32:303][  0]LogUProjectInfo: Found projects:
+[2022.07.12-05.52.32:419][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.12-05.52.32:482][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.12-05.52.32:507][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.12-05.52.32:507][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.12-05.52.32:639][  0]LogCollectionManager: Loaded 0 collections in 0.003456 seconds
+[2022.07.12-05.52.32:762][  0]LogFileCache: Scanning file cache for directory 'C:/UEproject1/UEProject_Environment/Desert/Saved/Collections/' took 0.00s
+[2022.07.12-05.52.32:762][  0]LogFileCache: Scanning file cache for directory 'C:/UEproject1/UEProject_Environment/Desert/Content/Developers/201710911/Collections/' took 0.00s
+[2022.07.12-05.52.32:762][  0]LogFileCache: Scanning file cache for directory 'C:/UEproject1/UEProject_Environment/Desert/Content/Collections/' took 0.00s
+[2022.07.12-05.52.33:128][  0]LogEngine: Initializing Engine...
+[2022.07.12-05.52.33:147][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.12-05.52.33:148][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.12-05.52.33:452][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.12-05.52.33:453][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.12-05.52.33:467][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.52.33:507][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.12-05.52.33:508][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.12-05.52.33:538][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.12-05.52.33:539][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.12-05.52.33:539][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.12-05.52.33:540][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.12-05.52.33:540][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.12-05.52.33:540][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.52.33:540][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.52.33:540][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.52.33:540][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.52.33:540][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.52.33:540][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.52.33:540][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.52.33:540][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.52.33:541][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.52.33:541][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.52.33:541][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.52.33:547][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.52.33:604][  0]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.52.33:604][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.52.33:606][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.52.33:606][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.52.33:607][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.12-05.52.33:607][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.12-05.52.33:608][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.12-05.52.33:608][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.12-05.52.33:608][  0]LogInit: FAudioDevice initialized.
+[2022.07.12-05.52.33:608][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.12-05.52.33:608][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.12-05.52.33:608][  0]LogInit: Texture streaming: Enabled
+[2022.07.12-05.52.33:654][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.07.12-05.52.33:666][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.12-05.52.33:696][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.12-05.52.33:706][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.12-05.52.33:706][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.12-05.52.34:949][  0]LogLiveCoding: Display: First instance in process group "UE_Desert_0x6d04c171", spawning console
+[2022.07.12-05.52.34:950][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.12-05.52.34:950][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.12-05.52.34:983][  0]LogInit: Transaction tracking system initialized
+[2022.07.12-05.52.35:089][  0]BlueprintLog: New page: 에디터 로드
+[2022.07.12-05.52.35:354][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.07.12-05.52.35:421][  0]TimingProfiler: Initialize
+[2022.07.12-05.52.35:421][  0]TimingProfiler: OnSessionChanged
+[2022.07.12-05.52.35:421][  0]LoadingProfiler: Initialize
+[2022.07.12-05.52.35:421][  0]LoadingProfiler: OnSessionChanged
+[2022.07.12-05.52.35:421][  0]NetworkingProfiler: Initialize
+[2022.07.12-05.52.35:421][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.12-05.52.35:421][  0]MemoryProfiler: Initialize
+[2022.07.12-05.52.35:421][  0]MemoryProfiler: OnSessionChanged
+[2022.07.12-05.52.36:272][  0]LogFileCache: Scanning file cache for directory 'C:/UEproject1/UEProject_Environment/Desert/Content/' took 0.02s
+[2022.07.12-05.52.36:272][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.12-05.52.36:398][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.12-05.52.36:401][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.07.12-05.52.36:401][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.070
+[2022.07.12-05.52.36:401][  0]Cmd: MAP LOAD FILE="../../../../../../UEproject1/UEProject_Environment/Desert/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.12-05.52.36:401][  0]LightingResults: New page: 라이팅 빌드
+[2022.07.12-05.52.36:409][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.52.36:409][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.52.36:409][  0]MapCheck: New page: 맵 체크
+[2022.07.12-05.52.36:410][  0]LightingResults: New page: 라이팅 빌드
+[2022.07.12-05.52.36:417][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.12-05.52.36:421][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.07.12-05.52.36:888][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.52.36:902][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.52.36:903][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.52.36:904][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.52.36:904][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.12-05.52.37:043][  0]LogWorldPartition: Display: WorldPartition initialize took 139 ms
+[2022.07.12-05.52.37:046][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.12-05.52.37:055][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.12-05.52.37:055][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.12-05.52.37:056][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.264ms.
+[2022.07.12-05.52.37:056][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.655
+[2022.07.12-05.52.37:074][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.744
+[2022.07.12-05.52.37:074][  0]LogShaderCompilers: Display: ================================================
+[2022.07.12-05.52.37:074][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.12-05.52.37:074][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.12-05.52.37:074][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.12-05.52.37:074][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.12-05.52.37:074][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.12-05.52.37:074][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.12-05.52.37:075][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.12-05.52.37:075][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.12-05.52.37:075][  0]LogShaderCompilers: Display: ================================================
+[2022.07.12-05.52.37:160][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.12-05.52.37:161][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.12-05.52.37:171][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.52.37:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.52.37:185][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.52.37:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.52.37:218][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:218][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:219][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:219][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:220][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:220][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:220][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:220][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:221][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:221][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:221][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:221][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:222][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:222][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:222][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:222][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:223][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:223][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:223][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.12-05.52.37:223][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-05.52.37:482][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.07.12-05.52.37:679][  0]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.12-05.52.37:684][  0]LogSlate: Took 0.003658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.07.12-05.52.37:689][  0]LogSlate: Took 0.003455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.07.12-05.52.37:689][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.12-05.52.37:693][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.12-05.52.37:694][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.12-05.52.37:696][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.12-05.52.37:699][  0]LogSlate: Took 0.003216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.07.12-05.52.37:751][  0]LogViewport: Scene viewport resized to 1142x551, mode Windowed.
+[2022.07.12-05.52.37:812][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.12-05.52.38:533][  0]LogStall: Startup...
+[2022.07.12-05.52.38:535][  0]LogStall: Startup complete.
+[2022.07.12-05.52.38:623][  0]LogLoad: (Engine Initialization) Total time: 14.29 seconds
+[2022.07.12-05.52.38:623][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.12-05.52.38:671][  0]LogAssetRegistry: Asset discovery search completed in 9.6446 seconds
+[2022.07.12-05.52.38:677][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.12-05.52.38:678][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.12-05.53.29:162][160]LogViewport: Scene viewport resized to 1138x547, mode Windowed.
+[2022.07.12-05.53.30:860][229]LogViewport: Scene viewport resized to 560x547, mode Windowed.
+[2022.07.12-05.53.32:707][347]LogViewport: Scene viewport resized to 561x547, mode Windowed.
+[2022.07.12-05.53.41:568][ 25]LogViewport: Scene viewport resized to 1146x551, mode Windowed.
+[2022.07.12-05.53.43:204][146]LogViewport: Scene viewport resized to 1144x551, mode Windowed.
+[2022.07.12-05.53.43:265][148]LogViewport: Scene viewport resized to 1139x551, mode Windowed.
+[2022.07.12-05.53.43:294][150]LogViewport: Scene viewport resized to 1137x551, mode Windowed.
+[2022.07.12-05.53.43:335][152]LogViewport: Scene viewport resized to 1132x551, mode Windowed.
+[2022.07.12-05.53.43:372][154]LogViewport: Scene viewport resized to 1128x551, mode Windowed.
+[2022.07.12-05.53.43:414][156]LogViewport: Scene viewport resized to 1125x551, mode Windowed.
+[2022.07.12-05.53.43:504][164]LogViewport: Scene viewport resized to 1122x551, mode Windowed.
+[2022.07.12-05.53.43:534][166]LogViewport: Scene viewport resized to 1119x551, mode Windowed.
+[2022.07.12-05.53.43:582][168]LogViewport: Scene viewport resized to 1113x551, mode Windowed.
+[2022.07.12-05.53.43:622][170]LogViewport: Scene viewport resized to 1096x551, mode Windowed.
+[2022.07.12-05.53.43:643][171]LogViewport: Scene viewport resized to 1083x551, mode Windowed.
+[2022.07.12-05.53.43:683][173]LogViewport: Scene viewport resized to 1057x551, mode Windowed.
+[2022.07.12-05.53.43:730][175]LogViewport: Scene viewport resized to 1018x551, mode Windowed.
+[2022.07.12-05.53.43:780][177]LogViewport: Scene viewport resized to 989x551, mode Windowed.
+[2022.07.12-05.53.44:058][205]LogViewport: Scene viewport resized to 994x551, mode Windowed.
+[2022.07.12-05.53.44:114][207]LogViewport: Scene viewport resized to 1018x551, mode Windowed.
+[2022.07.12-05.53.44:159][209]LogViewport: Scene viewport resized to 1036x551, mode Windowed.
+[2022.07.12-05.53.54:553][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2022.07.12-05.53.54:553][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2022.07.12-05.53.54:553][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CameraActor_0
+[2022.07.12-05.53.54:554][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CameraActor_0
+[2022.07.12-05.53.55:044][270]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2022.07.12-05.53.55:044][270]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2022.07.12-05.53.55:046][270]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CameraActor_UAID_782B4681C9FE502201_1416427143
+[2022.07.12-05.53.55:046][270]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CameraActor_UAID_782B4681C9FE502201_1416427143
+[2022.07.12-05.53.55:164][271]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.53.59:881][579]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.54.01:107][704]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.54.03:273][925]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.54.03:931][982]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.54.06:588][166]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.54.28:476][590]LogDerivedDataCache: C:/Users/201710911/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.120 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.12-05.54.45:626][  7]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.12-05.54.48:156][235]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.54.48:164][235]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.54.48:164][235]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.54.48:164][235]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.54.48:164][235]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.54.48:164][235]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.54.48:164][235]LogWorldPartition: Display: GetPartitionedActors took 82 us
+[2022.07.12-05.54.48:165][235]LogWorldPartition: Display: GenerateStreaming took 688 us
+[2022.07.12-05.54.48:165][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.54.48:165][235]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:54:48)
+[2022.07.12-05.54.48:169][235]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.12-05.54.48:169][235]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.12-05.54.48:169][235]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.54.48:175][235]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.54.48:175][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006464s)
+[2022.07.12-05.54.48:175][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006534s)
+[2022.07.12-05.54.48:176][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.54.48:176][235]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.54.48:176][235]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.54.48:176][235]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.54.48:178][235]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.54.48:178][235]LogPlayLevel: PIE: World Init took: (0.002575s)
+[2022.07.12-05.54.48:186][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.07.12-05.54.48:187][235]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.12-05.54.48:187][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.54.48:187][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.54.48:187][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.54.48:187][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.54.48:187][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.54.48:187][235]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.54.48:187][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.54.48:188][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.54.48:188][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.54.48:188][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.54.48:188][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.54.48:190][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.54.48:228][235]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.54.48:228][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.54.48:228][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.54.48:228][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.54.48:230][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.12-05.54.48:230][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.07.12-05.54.48:231][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.12-05.54.48:231][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.12-05.54.48:231][235]LogInit: FAudioDevice initialized.
+[2022.07.12-05.54.48:231][235]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.54.48:244][235]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.54.48:248][235]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.54.48
+[2022.07.12-05.54.48:248][235]LogWorld: Bringing up level for play took: 0.003137
+[2022.07.12-05.54.48:250][235]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.07.12-05.54.48:274][235]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=92.013
+[2022.07.12-05.54.48:274][235]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.54.48:275][235]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.54.48:276][235]PIE: 에디터에서 플레이 총 시작 시간 0.114초입니다.
+[2022.07.12-05.54.50:365][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.54.50:365][423]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.54.50:365][423]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.54.50:365][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.54.50:379][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.54.50:381][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.54.50:388][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.12-05.54.50:389][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.12-05.54.50:390][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.12-05.54.50:398][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.54.50:401][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.12-05.54.50:466][424]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.07.12-05.54.53:781][720]Cmd: SELECT NONE
+[2022.07.12-05.54.57:896][ 80]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.55.05:936][545]LogViewport: Scene viewport resized to 1031x545, mode Windowed.
+[2022.07.12-05.55.05:992][545]LogViewport: Scene viewport resized to 382x215, mode Windowed.
+[2022.07.12-05.55.06:392][545]LogViewport: Scene viewport resized to 507x547, mode Windowed.
+[2022.07.12-05.55.06:471][545]LogViewport: Scene viewport resized to 383x216, mode Windowed.
+[2022.07.12-05.56.34:216][365]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.56.34:225][365]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.56.34:225][365]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.56.34:225][365]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.56.34:225][365]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.56.34:225][365]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.56.34:225][365]LogWorldPartition: Display: GetPartitionedActors took 109 us
+[2022.07.12-05.56.34:226][365]LogWorldPartition: Display: GenerateStreaming took 836 us
+[2022.07.12-05.56.34:227][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.56.34:227][365]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:56:34)
+[2022.07.12-05.56.34:274][365]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.56.34:281][365]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.56.34:281][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006487s)
+[2022.07.12-05.56.34:281][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006583s)
+[2022.07.12-05.56.34:281][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.56.34:281][365]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.56.34:282][365]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.56.34:282][365]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.56.34:284][365]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.56.34:284][365]LogPlayLevel: PIE: World Init took: (0.003082s)
+[2022.07.12-05.56.34:294][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.12-05.56.34:295][365]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.12-05.56.34:295][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.56.34:295][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.56.34:295][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.56.34:295][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.56.34:295][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.56.34:295][365]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.56.34:295][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.56.34:295][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.56.34:296][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.56.34:296][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.56.34:296][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.56.34:298][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.56.34:339][365]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.56.34:339][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.56.34:339][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.56.34:339][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.56.34:341][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.07.12-05.56.34:341][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.07.12-05.56.34:343][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.07.12-05.56.34:343][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.07.12-05.56.34:343][365]LogInit: FAudioDevice initialized.
+[2022.07.12-05.56.34:343][365]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.56.34:356][365]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.56.34:359][365]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.56.34
+[2022.07.12-05.56.34:359][365]LogWorld: Bringing up level for play took: 0.003270
+[2022.07.12-05.56.34:361][365]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.07.12-05.56.34:366][365]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=92.013
+[2022.07.12-05.56.34:366][365]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.56.34:367][365]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.56.34:369][365]PIE: 에디터에서 플레이 총 시작 시간 0.146초입니다.
+[2022.07.12-05.56.40:485][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.56.40:486][819]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.56.40:486][819]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.56.40:487][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.56.40:498][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.56.40:500][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.56.40:512][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.12-05.56.40:512][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.12-05.56.40:514][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.12-05.56.40:545][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.56.40:549][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.12-05.56.40:605][820]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.07.12-05.56.43:289][992]LogViewport: Scene viewport resized to 383x216, mode Windowed.
+[2022.07.12-05.56.49:908][304]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.56.49:920][304]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.56.49:920][304]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.56.49:920][304]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.56.49:920][304]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.56.49:920][304]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.56.49:920][304]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2022.07.12-05.56.49:920][304]LogWorldPartition: Display: GenerateStreaming took 429 us
+[2022.07.12-05.56.49:920][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.56.49:920][304]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:56:49)
+[2022.07.12-05.56.49:920][304]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.56.49:931][304]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.56.49:931][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010629s)
+[2022.07.12-05.56.49:931][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010703s)
+[2022.07.12-05.56.49:931][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.56.49:932][304]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.56.49:933][304]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.56.49:933][304]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.56.49:935][304]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.07.12-05.56.49:935][304]LogPlayLevel: PIE: World Init took: (0.004174s)
+[2022.07.12-05.56.49:946][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.07.12-05.56.49:948][304]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.12-05.56.49:948][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.56.49:948][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.56.49:948][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.56.49:948][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.56.49:948][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.56.49:948][304]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.56.49:948][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.56.49:948][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.56.49:948][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.56.49:948][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.56.49:948][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.56.49:950][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.56.49:993][304]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.56.49:993][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.56.49:993][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.56.49:993][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.56.49:995][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.07.12-05.56.49:995][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.07.12-05.56.49:997][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.07.12-05.56.49:997][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.07.12-05.56.49:997][304]LogInit: FAudioDevice initialized.
+[2022.07.12-05.56.49:997][304]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.56.50:011][304]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.56.50:015][304]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.56.50
+[2022.07.12-05.56.50:015][304]LogWorld: Bringing up level for play took: 0.003236
+[2022.07.12-05.56.50:017][304]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.07.12-05.56.50:020][304]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=92.013
+[2022.07.12-05.56.50:020][304]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.56.50:020][304]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.56.50:021][304]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2022.07.12-05.56.52:135][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.56.52:135][455]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.56.52:135][455]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.56.52:136][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.56.52:151][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.56.52:153][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.56.52:160][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.56.52:161][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.12-05.56.52:162][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.12-05.56.52:176][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.12-05.56.52:252][456]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.07.12-05.56.52:259][456]LogViewport: Scene viewport resized to 383x216, mode Windowed.
+[2022.07.12-05.56.59:534][807]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.56.59:544][807]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.56.59:544][807]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.56.59:544][807]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.56.59:544][807]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.56.59:544][807]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.56.59:544][807]LogWorldPartition: Display: GetPartitionedActors took 86 us
+[2022.07.12-05.56.59:545][807]LogWorldPartition: Display: GenerateStreaming took 737 us
+[2022.07.12-05.56.59:545][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.56.59:545][807]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:56:59)
+[2022.07.12-05.56.59:545][807]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.56.59:556][807]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.56.59:556][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010977s)
+[2022.07.12-05.56.59:557][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011073s)
+[2022.07.12-05.56.59:557][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.56.59:558][807]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.56.59:558][807]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.56.59:558][807]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.56.59:560][807]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.56.59:560][807]LogPlayLevel: PIE: World Init took: (0.003609s)
+[2022.07.12-05.56.59:569][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.12-05.56.59:570][807]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.07.12-05.56.59:571][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.56.59:571][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.56.59:571][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.56.59:571][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.56.59:571][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.56.59:571][807]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.56.59:571][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.56.59:571][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.56.59:571][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.56.59:571][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.56.59:571][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.56.59:574][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.56.59:615][807]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.56.59:615][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.56.59:615][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.56.59:615][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.56.59:616][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.07.12-05.56.59:616][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.07.12-05.56.59:618][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.07.12-05.56.59:618][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.07.12-05.56.59:618][807]LogInit: FAudioDevice initialized.
+[2022.07.12-05.56.59:618][807]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.56.59:634][807]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.56.59:638][807]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.56.59
+[2022.07.12-05.56.59:638][807]LogWorld: Bringing up level for play took: 0.003436
+[2022.07.12-05.56.59:640][807]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.07.12-05.56.59:645][807]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=92.013
+[2022.07.12-05.56.59:645][807]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.56.59:646][807]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.56.59:647][807]PIE: 에디터에서 플레이 총 시작 시간 0.106초입니다.
+[2022.07.12-05.57.02:395][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.02:395][  7]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.57.02:395][  7]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.57.02:396][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.02:418][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.57.02:420][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.02:432][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.02:434][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.07.12-05.57.02:436][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.07.12-05.57.02:470][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.07.12-05.57.02:550][  8]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.07.12-05.57.02:557][  8]LogViewport: Scene viewport resized to 383x216, mode Windowed.
+[2022.07.12-05.57.04:894][ 52]LogViewport: Scene viewport resized to 1036x551, mode Windowed.
+[2022.07.12-05.57.04:999][ 52]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.57.08:788][301]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.57.11:265][432]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.57.11:962][461]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.57.12:985][523]Cmd: DELETE
+[2022.07.12-05.57.12:985][523]Cmd: ACTOR DELETE
+[2022.07.12-05.57.12:987][523]LogEditorActor: Deleted Actor: CameraActor
+[2022.07.12-05.57.13:012][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.12-05.57.13:014][523]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.07.12-05.57.24:909][621]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.57.26:454][763]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.57.26:462][763]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.57.26:462][763]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.57.26:462][763]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.57.26:462][763]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.57.26:462][763]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.57.26:462][763]LogWorldPartition: Display: GetPartitionedActors took 85 us
+[2022.07.12-05.57.26:463][763]LogWorldPartition: Display: GenerateStreaming took 568 us
+[2022.07.12-05.57.26:463][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.57.26:463][763]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:57:26)
+[2022.07.12-05.57.26:463][763]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.57.26:469][763]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.57.26:469][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006316s)
+[2022.07.12-05.57.26:469][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006377s)
+[2022.07.12-05.57.26:470][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.57.26:470][763]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.57.26:471][763]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.57.26:471][763]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.57.26:472][763]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.57.26:472][763]LogPlayLevel: PIE: World Init took: (0.002745s)
+[2022.07.12-05.57.26:480][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.07.12-05.57.26:482][763]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.12-05.57.26:482][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.57.26:482][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.57.26:482][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.57.26:482][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.57.26:482][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.57.26:482][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.57.26:482][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.57.26:482][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.57.26:483][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.57.26:483][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.57.26:483][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.57.26:484][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.57.26:519][763]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.57.26:520][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.57.26:520][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.57.26:520][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.57.26:521][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.07.12-05.57.26:521][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.07.12-05.57.26:523][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.07.12-05.57.26:523][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.07.12-05.57.26:523][763]LogInit: FAudioDevice initialized.
+[2022.07.12-05.57.26:523][763]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.57.26:538][763]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.57.26:541][763]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.57.26
+[2022.07.12-05.57.26:541][763]LogWorld: Bringing up level for play took: 0.003377
+[2022.07.12-05.57.26:544][763]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.07.12-05.57.26:546][763]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=182.013
+[2022.07.12-05.57.26:546][763]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.57.26:547][763]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.57.26:548][763]PIE: 에디터에서 플레이 총 시작 시간 0.088초입니다.
+[2022.07.12-05.57.28:805][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.28:805][971]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.57.28:805][971]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.57.28:805][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.28:820][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.57.28:822][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.28:829][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.28:830][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.07.12-05.57.28:832][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.07.12-05.57.28:840][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.07.12-05.57.28:907][973]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.07.12-05.57.32:547][311]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.57.36:986][729]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.57.39:481][984]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.57.44:428][459]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.57.46:977][695]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.57.46:987][695]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.57.46:987][695]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.57.46:987][695]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.57.46:987][695]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.57.46:987][695]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.57.46:987][695]LogWorldPartition: Display: GetPartitionedActors took 63 us
+[2022.07.12-05.57.46:987][695]LogWorldPartition: Display: GenerateStreaming took 538 us
+[2022.07.12-05.57.46:987][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.57.46:987][695]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:57:46)
+[2022.07.12-05.57.46:988][695]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.57.46:994][695]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.57.46:994][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006574s)
+[2022.07.12-05.57.46:994][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006631s)
+[2022.07.12-05.57.46:994][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.57.46:995][695]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.57.46:995][695]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.57.46:995][695]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.57.46:997][695]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.57.46:997][695]LogPlayLevel: PIE: World Init took: (0.002849s)
+[2022.07.12-05.57.47:004][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.12-05.57.47:005][695]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.12-05.57.47:006][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.57.47:006][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.57.47:006][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.57.47:006][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.57.47:006][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.57.47:006][695]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.57.47:006][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.57.47:006][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.57.47:006][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.57.47:006][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.57.47:006][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.57.47:008][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.57.47:043][695]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.57.47:043][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.57.47:043][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.57.47:043][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.57.47:044][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.07.12-05.57.47:044][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.07.12-05.57.47:046][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.07.12-05.57.47:046][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.07.12-05.57.47:046][695]LogInit: FAudioDevice initialized.
+[2022.07.12-05.57.47:046][695]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.57.47:059][695]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.57.47:062][695]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.57.47
+[2022.07.12-05.57.47:062][695]LogWorld: Bringing up level for play took: 0.002901
+[2022.07.12-05.57.47:064][695]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.07.12-05.57.47:067][695]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=142.013
+[2022.07.12-05.57.47:067][695]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.57.47:067][695]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.57.47:068][695]PIE: 에디터에서 플레이 총 시작 시간 0.083초입니다.
+[2022.07.12-05.57.50:995][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.50:995][ 95]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.57.50:995][ 95]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.57.50:995][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.51:009][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.57.51:011][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.51:020][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.51:020][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.07.12-05.57.51:022][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.07.12-05.57.51:049][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.12-05.57.51:085][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.07.12-05.57.52:693][241]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.57.52:701][241]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.57.52:701][241]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.57.52:701][241]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.57.52:701][241]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.57.52:701][241]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.57.52:701][241]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2022.07.12-05.57.52:701][241]LogWorldPartition: Display: GenerateStreaming took 418 us
+[2022.07.12-05.57.52:701][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.57.52:701][241]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:57:52)
+[2022.07.12-05.57.52:734][241]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.57.52:740][241]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.57.52:740][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006140s)
+[2022.07.12-05.57.52:740][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006220s)
+[2022.07.12-05.57.52:740][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.57.52:741][241]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.57.52:741][241]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.57.52:741][241]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.57.52:743][241]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.57.52:743][241]LogPlayLevel: PIE: World Init took: (0.002604s)
+[2022.07.12-05.57.52:750][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.07.12-05.57.52:751][241]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.07.12-05.57.52:751][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.57.52:751][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.57.52:751][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.57.52:751][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.57.52:751][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.57.52:751][241]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.57.52:751][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.57.52:751][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.57.52:751][241]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.57.52:751][241]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.57.52:751][241]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.57.52:753][241]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.57.52:789][241]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.57.52:789][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.57.52:789][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.57.52:789][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.57.52:791][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.07.12-05.57.52:791][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.07.12-05.57.52:793][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.07.12-05.57.52:793][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.07.12-05.57.52:793][241]LogInit: FAudioDevice initialized.
+[2022.07.12-05.57.52:793][241]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.57.52:808][241]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.57.52:811][241]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.57.52
+[2022.07.12-05.57.52:812][241]LogWorld: Bringing up level for play took: 0.003140
+[2022.07.12-05.57.52:813][241]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.07.12-05.57.52:816][241]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=142.013
+[2022.07.12-05.57.52:816][241]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.57.52:817][241]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.57.52:818][241]PIE: 에디터에서 플레이 총 시작 시간 0.118초입니다.
+[2022.07.12-05.57.56:995][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.56:995][653]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.57.56:995][653]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.57.56:995][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.57:005][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.57.57:007][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.57.57:014][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.57.57:015][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.07.12-05.57.57:016][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.07.12-05.57.57:037][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.12-05.57.57:071][654]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.07.12-05.58.00:925][996]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.58.04:125][290]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.58.06:798][564]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.58.13:078][202]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.58.14:539][335]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.58.14:548][335]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.58.14:548][335]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.58.14:548][335]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.58.14:548][335]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.58.14:548][335]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.58.14:548][335]LogWorldPartition: Display: GetPartitionedActors took 61 us
+[2022.07.12-05.58.14:549][335]LogWorldPartition: Display: GenerateStreaming took 454 us
+[2022.07.12-05.58.14:549][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.58.14:549][335]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:58:14)
+[2022.07.12-05.58.14:584][335]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.58.14:590][335]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.58.14:590][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006203s)
+[2022.07.12-05.58.14:590][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006288s)
+[2022.07.12-05.58.14:590][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.58.14:591][335]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.58.14:591][335]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.58.14:591][335]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.58.14:593][335]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.58.14:593][335]LogPlayLevel: PIE: World Init took: (0.002623s)
+[2022.07.12-05.58.14:600][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.07.12-05.58.14:601][335]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.12-05.58.14:601][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.58.14:601][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.58.14:601][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.58.14:601][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.58.14:601][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.58.14:601][335]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.58.14:601][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.58.14:601][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.58.14:601][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.58.14:601][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.58.14:601][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.58.14:604][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.58.14:639][335]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.58.14:640][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.58.14:640][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.58.14:640][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.58.14:641][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.07.12-05.58.14:641][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.07.12-05.58.14:642][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.07.12-05.58.14:642][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.07.12-05.58.14:642][335]LogInit: FAudioDevice initialized.
+[2022.07.12-05.58.14:642][335]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.58.14:655][335]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.58.14:658][335]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.58.14
+[2022.07.12-05.58.14:658][335]LogWorld: Bringing up level for play took: 0.002802
+[2022.07.12-05.58.14:660][335]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.07.12-05.58.14:663][335]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2430.000 Z=92.213
+[2022.07.12-05.58.14:663][335]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.58.14:663][335]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.58.14:664][335]PIE: 에디터에서 플레이 총 시작 시간 0.118초입니다.
+[2022.07.12-05.58.17:074][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.58.17:074][555]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.58.17:074][555]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.58.17:075][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.58.17:089][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.58.17:091][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.58.17:099][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.58.17:099][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.12-05.58.17:101][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.12-05.58.17:128][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.07.12-05.58.17:163][556]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.07.12-05.58.24:304][226]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.58.26:117][407]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.58.28:748][679]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.12-05.58.30:375][825]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.58.30:384][825]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.58.30:384][825]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.58.30:384][825]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.58.30:384][825]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.58.30:384][825]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.58.30:384][825]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2022.07.12-05.58.30:385][825]LogWorldPartition: Display: GenerateStreaming took 574 us
+[2022.07.12-05.58.30:385][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.58.30:385][825]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:58:30)
+[2022.07.12-05.58.30:434][825]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.58.30:440][825]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.58.30:440][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006084s)
+[2022.07.12-05.58.30:440][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006166s)
+[2022.07.12-05.58.30:440][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.58.30:440][825]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.58.30:441][825]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.58.30:441][825]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.58.30:443][825]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.58.30:443][825]LogPlayLevel: PIE: World Init took: (0.002738s)
+[2022.07.12-05.58.30:450][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.12-05.58.30:452][825]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.12-05.58.30:452][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.58.30:452][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.58.30:452][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.58.30:452][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.58.30:452][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.58.30:452][825]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.58.30:452][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.58.30:452][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.58.30:452][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.58.30:452][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.58.30:452][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.58.30:454][825]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.58.30:489][825]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.58.30:490][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.58.30:490][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.58.30:490][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.58.30:491][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.07.12-05.58.30:491][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.07.12-05.58.30:492][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.07.12-05.58.30:492][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.07.12-05.58.30:492][825]LogInit: FAudioDevice initialized.
+[2022.07.12-05.58.30:492][825]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.58.30:504][825]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.58.30:507][825]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.58.30
+[2022.07.12-05.58.30:507][825]LogWorld: Bringing up level for play took: 0.003342
+[2022.07.12-05.58.30:509][825]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.07.12-05.58.30:512][825]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2300.000 Z=172.013
+[2022.07.12-05.58.30:512][825]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.58.30:513][825]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.58.30:513][825]PIE: 에디터에서 플레이 총 시작 시간 0.131초입니다.
+[2022.07.12-05.58.33:194][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.58.33:194][ 73]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.58.33:195][ 73]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.58.33:195][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.58.33:209][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.58.33:211][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.58.33:218][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.58.33:219][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.07.12-05.58.33:220][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.07.12-05.58.33:235][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.12-05.58.33:270][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.07.12-05.59.15:386][342]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.07.12-05.59.15:394][342]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.12-05.59.15:394][342]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.12-05.59.15:394][342]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.59.15:394][342]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.12-05.59.15:394][342]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.12-05.59.15:394][342]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2022.07.12-05.59.15:394][342]LogWorldPartition: Display: GenerateStreaming took 413 us
+[2022.07.12-05.59.15:395][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.12-05.59.15:395][342]PIE: New page: PIE 세션: ThirdPersonMap (2022. 7. 12. 오후 11:59:15)
+[2022.07.12-05.59.15:424][342]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.59.15:430][342]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.12-05.59.15:430][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006131s)
+[2022.07.12-05.59.15:430][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006213s)
+[2022.07.12-05.59.15:430][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-05.59.15:431][342]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.12-05.59.15:431][342]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-05.59.15:431][342]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.12-05.59.15:433][342]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.12-05.59.15:433][342]LogPlayLevel: PIE: World Init took: (0.002565s)
+[2022.07.12-05.59.15:442][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.07.12-05.59.15:444][342]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.12-05.59.15:444][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-05.59.15:444][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-05.59.15:444][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-05.59.15:444][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-05.59.15:444][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-05.59.15:444][342]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-05.59.15:444][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-05.59.15:444][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-05.59.15:445][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-05.59.15:445][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-05.59.15:445][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-05.59.15:447][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-05.59.15:483][342]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.07.12-05.59.15:483][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-05.59.15:483][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-05.59.15:483][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-05.59.15:485][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.07.12-05.59.15:485][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.07.12-05.59.15:486][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.07.12-05.59.15:486][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.07.12-05.59.15:486][342]LogInit: FAudioDevice initialized.
+[2022.07.12-05.59.15:486][342]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2022.07.12-05.59.15:500][342]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.12-05.59.15:503][342]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.12-14.59.15
+[2022.07.12-05.59.15:503][342]LogWorld: Bringing up level for play took: 0.003042
+[2022.07.12-05.59.15:505][342]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.07.12-05.59.15:508][342]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1880.000 Y=2300.000 Z=172.013
+[2022.07.12-05.59.15:508][342]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.12-05.59.15:509][342]PIE: 서버가 로그인했습니다.
+[2022.07.12-05.59.15:510][342]PIE: 에디터에서 플레이 총 시작 시간 0.117초입니다.
+[2022.07.12-05.59.24:554][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.59.24:554][219]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.12-05.59.24:555][219]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-05.59.24:555][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.59.24:566][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.12-05.59.24:568][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-05.59.24:576][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.12-05.59.24:576][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.07.12-05.59.24:578][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.07.12-05.59.24:601][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-05.59.24:603][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.12-05.59.24:648][220]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.07.12-05.59.34:598][132]LogViewport: Scene viewport resized to 386x217, mode Windowed.
+[2022.07.12-05.59.54:017][129]Cmd: SELECT NONE
+[2022.07.12-05.59.56:837][392]LogViewport: Scene viewport resized to 1031x545, mode Windowed.
+[2022.07.12-05.59.58:358][468]LogViewport: Scene viewport resized to 507x547, mode Windowed.
+[2022.07.12-06.00.00:128][595]LogViewport: Scene viewport resized to 1031x545, mode Windowed.
+[2022.07.12-06.00.35:945][938]LogViewport: Scene viewport resized to 507x547, mode Windowed.
+[2022.07.12-06.01.02:780][ 47]LogStaticMesh: Display: S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1 스태틱 메시 빌드 중...
+[2022.07.12-06.01.03:011][ 55]LogTexture: Display: 텍스처 빌드 중: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/T_SmallLimestoneRocksPack_udqhfcyva_2K_DpR.T_SmallLimestoneRocksPack_udqhfcyva_2K_DpR(TFO_DXT1, 2048X2048 X1X1)(필요 메모리 예상: 160.000MB), 인코딩 속도: Fast
+[2022.07.12-06.01.03:117][ 58]LogTexture: Display: 텍스처 빌드 중: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/T_Small_Limestone_Rocks_Pack_udqhfcyva_2K_N.T_Small_Limestone_Rocks_Pack_udqhfcyva_2K_N(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 160.000MB), 인코딩 속도: Fast
+[2022.07.12-06.01.03:153][ 59]LogTexture: Display: 텍스처 빌드 중: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/T_Small_Limestone_Rocks_Pack_udqhfcyva_2K_D.T_Small_Limestone_Rocks_Pack_udqhfcyva_2K_D(TFO_DXT1, 2048X2048 X1X1)(필요 메모리 예상: 160.000MB), 인코딩 속도: Fast
+[2022.07.12-06.01.03:306][ 64]LogStaticMesh: Built static mesh [0.54s] /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.26:350][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.26:350][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.26:350][404]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2022.07.12-06.01.26:796][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.26:796][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.26:797][430]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_782B4681C9FE502201_1868178144
+[2022.07.12-06.01.36:179][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.36:179][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.36:180][144]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2022.07.12-06.01.36:540][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.36:540][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1
+[2022.07.12-06.01.36:541][166]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_782B4681C9FE502201_1877922145
+[2022.07.12-06.01.50:349][207]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.50:349][207]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2022.07.12-06.01.50:787][218]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.50:787][218]LogEditorTransaction: Undo 엘리먼트 클릭
+[2022.07.12-06.01.51:344][239]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.51:344][239]LogEditorTransaction: Undo 엘리먼트 클릭
+[2022.07.12-06.01.51:749][263]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.51:749][263]LogEditorTransaction: Undo 엘리먼트 클릭
+[2022.07.12-06.01.52:103][283]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.52:103][283]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2022.07.12-06.01.52:636][314]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.52:636][314]LogEditorTransaction: Undo 액터 생성
+[2022.07.12-06.01.53:093][338]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.53:093][338]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2022.07.12-06.01.53:492][363]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.53:492][363]LogEditorTransaction: Undo 엘리먼트 클릭
+[2022.07.12-06.01.54:246][408]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.54:246][408]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2022.07.12-06.01.54:758][435]Cmd: TRANSACTION UNDO
+[2022.07.12-06.01.54:758][435]LogEditorTransaction: Undo 액터 생성
+[2022.07.12-06.02.12:720][599]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2
+[2022.07.12-06.02.12:738][599]LogStaticMesh: Display: S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2 스태틱 메시 빌드 중...
+[2022.07.12-06.02.12:738][599]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2)...
+[2022.07.12-06.02.12:960][599]LogStaticMesh: Built static mesh [0.22s] /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2
+[2022.07.12-06.02.12:990][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-06.02.13:029][599]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1)...
+[2022.07.12-06.02.13:477][599]LogViewport: Scene viewport resized to 445x624, mode Windowed.
+[2022.07.12-06.02.14:738][648]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2' being destroyed
+[2022.07.12-06.02.14:765][648]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2' being destroyed
+[2022.07.12-06.02.14:818][648]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-06.02.14:818][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-06.02.16:662][759]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3
+[2022.07.12-06.02.16:679][759]LogStaticMesh: Display: S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3 스태틱 메시 빌드 중...
+[2022.07.12-06.02.16:679][759]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3)...
+[2022.07.12-06.02.16:893][759]LogStaticMesh: Built static mesh [0.21s] /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3
+[2022.07.12-06.02.16:922][759]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-06.02.17:352][759]LogViewport: Scene viewport resized to 446x626, mode Windowed.
+[2022.07.12-06.02.18:161][791]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3' being destroyed
+[2022.07.12-06.02.18:207][791]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3' being destroyed
+[2022.07.12-06.02.18:274][791]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-06.02.18:274][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-06.02.18:849][819]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4
+[2022.07.12-06.02.18:866][819]LogStaticMesh: Display: S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4 스태틱 메시 빌드 중...
+[2022.07.12-06.02.18:866][819]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4)...
+[2022.07.12-06.02.19:090][819]LogStaticMesh: Built static mesh [0.22s] /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4
+[2022.07.12-06.02.19:121][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-06.02.19:548][819]LogViewport: Scene viewport resized to 447x628, mode Windowed.
+[2022.07.12-06.02.20:238][849]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4' being destroyed
+[2022.07.12-06.02.20:263][849]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4' being destroyed
+[2022.07.12-06.02.20:314][849]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-06.02.20:314][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-06.02.20:959][880]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5
+[2022.07.12-06.02.20:978][880]LogStaticMesh: Display: S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5 스태틱 메시 빌드 중...
+[2022.07.12-06.02.20:978][880]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5)...
+[2022.07.12-06.02.21:214][880]LogStaticMesh: Built static mesh [0.24s] /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5
+[2022.07.12-06.02.21:245][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-06.02.21:665][880]LogViewport: Scene viewport resized to 448x630, mode Windowed.
+[2022.07.12-06.02.22:502][913]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5' being destroyed
+[2022.07.12-06.02.22:518][913]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5' being destroyed
+[2022.07.12-06.02.22:570][913]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-06.02.22:571][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-06.02.24:653][ 33]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6
+[2022.07.12-06.02.24:671][ 33]LogStaticMesh: Display: S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6 스태틱 메시 빌드 중...
+[2022.07.12-06.02.24:671][ 33]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6)...
+[2022.07.12-06.02.24:936][ 33]LogStaticMesh: Built static mesh [0.26s] /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6
+[2022.07.12-06.02.24:965][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-06.02.25:393][ 33]LogViewport: Scene viewport resized to 448x632, mode Windowed.
+[2022.07.12-06.02.27:942][ 89]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6' being destroyed
+[2022.07.12-06.02.27:950][ 89]LogSlate: Window 'S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6' being destroyed
+[2022.07.12-06.02.27:999][ 89]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-06.02.27:999][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-06.02.51:365][566]LogSlate: Window '폴리지 타입 에셋의 위치 선택' being destroyed
+[2022.07.12-06.02.51:552][566]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004950 seconds
+[2022.07.12-06.02.51:554][566]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType
+[2022.07.12-06.02.51:554][566]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/S_Small_Limestone_Rocks_Pack_udqE963235548955F56FA9888AB58C46BE6.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Content/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType.uasset'
+[2022.07.12-06.02.52:605][566]LogSlate: Window '폴리지 타입 에셋의 위치 선택' being destroyed
+[2022.07.12-06.02.52:748][566]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2_FoliageType
+[2022.07.12-06.02.52:749][566]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/S_Small_Limestone_Rocks_Pack_udq465B4FE64EF5F2FBF3BA4E964DC43826.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Content/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2_FoliageType.uasset'
+[2022.07.12-06.02.53:187][566]LogSlate: Window '폴리지 타입 에셋의 위치 선택' being destroyed
+[2022.07.12-06.02.53:322][566]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3_FoliageType
+[2022.07.12-06.02.53:323][566]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/S_Small_Limestone_Rocks_Pack_udqC7E206964496349785713987F8ADCC3C.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Content/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3_FoliageType.uasset'
+[2022.07.12-06.02.53:787][566]LogSlate: Window '폴리지 타입 에셋의 위치 선택' being destroyed
+[2022.07.12-06.02.53:943][566]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4_FoliageType
+[2022.07.12-06.02.53:943][566]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/S_Small_Limestone_Rocks_Pack_udq71112F204AAFD861BD464399457E1EEB.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Content/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4_FoliageType.uasset'
+[2022.07.12-06.02.54:544][566]LogSlate: Window '폴리지 타입 에셋의 위치 선택' being destroyed
+[2022.07.12-06.02.54:724][566]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5_FoliageType
+[2022.07.12-06.02.54:725][566]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/S_Small_Limestone_Rocks_Pack_udqBCA25C1F4219297288C7D88BF8998D7D.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Content/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5_FoliageType.uasset'
+[2022.07.12-06.02.55:284][566]LogSlate: Window '폴리지 타입 에셋의 위치 선택' being destroyed
+[2022.07.12-06.02.55:453][566]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6_FoliageType
+[2022.07.12-06.02.55:453][566]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/S_Small_Limestone_Rocks_Pack_udq0B71EC0D483D8C9DB28637AEF539DFB1.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Content/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6_FoliageType.uasset'
+[2022.07.12-06.02.55:476][566]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.07.12-06.02.55:476][566]LogContentValidation: Display: FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType 유효성 검사 중
+[2022.07.12-06.02.55:476][566]LogContentValidation: Display: FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2_FoliageType.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var2_FoliageType 유효성 검사 중
+[2022.07.12-06.02.55:476][566]LogContentValidation: Display: FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3_FoliageType.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var3_FoliageType 유효성 검사 중
+[2022.07.12-06.02.55:476][566]LogContentValidation: Display: FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4_FoliageType.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var4_FoliageType 유효성 검사 중
+[2022.07.12-06.02.55:476][566]LogContentValidation: Display: FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5_FoliageType.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var5_FoliageType 유효성 검사 중
+[2022.07.12-06.02.55:476][566]LogContentValidation: Display: FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6_FoliageType.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var6_FoliageType 유효성 검사 중
+[2022.07.12-06.03.13:924][580]LogViewport: Scene viewport resized to 507x548, mode Windowed.
+[2022.07.12-06.03.13:965][581]LogViewport: Scene viewport resized to 507x554, mode Windowed.
+[2022.07.12-06.03.14:020][583]LogViewport: Scene viewport resized to 507x585, mode Windowed.
+[2022.07.12-06.03.14:074][585]LogViewport: Scene viewport resized to 507x643, mode Windowed.
+[2022.07.12-06.03.14:126][587]LogViewport: Scene viewport resized to 507x694, mode Windowed.
+[2022.07.12-06.03.14:186][588]LogViewport: Scene viewport resized to 507x727, mode Windowed.
+[2022.07.12-06.03.14:336][595]LogViewport: Scene viewport resized to 507x737, mode Windowed.
+[2022.07.12-06.03.14:515][607]LogViewport: Scene viewport resized to 507x738, mode Windowed.
+[2022.07.12-06.03.14:552][608]LogViewport: Scene viewport resized to 507x737, mode Windowed.
+[2022.07.12-06.03.30:655][911]LogViewport: Scene viewport resized to 502x737, mode Windowed.
+[2022.07.12-06.03.30:718][913]LogViewport: Scene viewport resized to 485x737, mode Windowed.
+[2022.07.12-06.03.30:755][915]LogViewport: Scene viewport resized to 476x737, mode Windowed.
+[2022.07.12-06.03.30:815][917]LogViewport: Scene viewport resized to 461x737, mode Windowed.
+[2022.07.12-06.03.30:852][919]LogViewport: Scene viewport resized to 454x737, mode Windowed.
+[2022.07.12-06.03.30:916][921]LogViewport: Scene viewport resized to 442x737, mode Windowed.
+[2022.07.12-06.03.30:953][923]LogViewport: Scene viewport resized to 436x737, mode Windowed.
+[2022.07.12-06.03.31:034][927]LogViewport: Scene viewport resized to 431x737, mode Windowed.
+[2022.07.12-06.03.31:358][953]LogViewport: Scene viewport resized to 427x737, mode Windowed.
+[2022.07.12-06.03.31:417][955]LogViewport: Scene viewport resized to 405x737, mode Windowed.
+[2022.07.12-06.03.31:471][957]LogViewport: Scene viewport resized to 392x737, mode Windowed.
+[2022.07.12-06.03.31:511][959]LogViewport: Scene viewport resized to 384x737, mode Windowed.
+[2022.07.12-06.03.31:637][967]LogViewport: Scene viewport resized to 387x737, mode Windowed.
+[2022.07.12-06.04.04:354][443]LogViewport: Scene viewport resized to 790x743, mode Windowed.
+[2022.07.12-06.04.24:832][370]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.07.12-06.04.41:306][ 32]LogViewport: Scene viewport resized to 788x743, mode Windowed.
+[2022.07.12-06.04.41:356][ 34]LogViewport: Scene viewport resized to 780x743, mode Windowed.
+[2022.07.12-06.04.41:383][ 35]LogViewport: Scene viewport resized to 777x743, mode Windowed.
+[2022.07.12-06.04.41:424][ 36]LogViewport: Scene viewport resized to 776x743, mode Windowed.
+[2022.07.12-06.04.41:468][ 38]LogViewport: Scene viewport resized to 773x743, mode Windowed.
+[2022.07.12-06.04.41:495][ 39]LogViewport: Scene viewport resized to 772x743, mode Windowed.
+[2022.07.12-06.04.41:525][ 40]LogViewport: Scene viewport resized to 770x743, mode Windowed.
+[2022.07.12-06.04.41:567][ 41]LogViewport: Scene viewport resized to 762x743, mode Windowed.
+[2022.07.12-06.04.41:594][ 42]LogViewport: Scene viewport resized to 755x743, mode Windowed.
+[2022.07.12-06.04.41:647][ 44]LogViewport: Scene viewport resized to 739x743, mode Windowed.
+[2022.07.12-06.04.41:693][ 46]LogViewport: Scene viewport resized to 703x743, mode Windowed.
+[2022.07.12-06.04.41:720][ 47]LogViewport: Scene viewport resized to 678x743, mode Windowed.
+[2022.07.12-06.04.41:770][ 49]LogViewport: Scene viewport resized to 626x743, mode Windowed.
+[2022.07.12-06.04.41:796][ 50]LogViewport: Scene viewport resized to 592x743, mode Windowed.
+[2022.07.12-06.04.41:833][ 51]LogViewport: Scene viewport resized to 545x743, mode Windowed.
+[2022.07.12-06.04.41:875][ 52]LogViewport: Scene viewport resized to 486x743, mode Windowed.
+[2022.07.12-06.04.41:921][ 54]LogViewport: Scene viewport resized to 445x743, mode Windowed.
+[2022.07.12-06.04.41:958][ 56]LogViewport: Scene viewport resized to 422x743, mode Windowed.
+[2022.07.12-06.04.42:023][ 58]LogViewport: Scene viewport resized to 390x743, mode Windowed.
+[2022.07.12-06.04.42:062][ 60]LogViewport: Scene viewport resized to 377x743, mode Windowed.
+[2022.07.12-06.04.42:119][ 62]LogViewport: Scene viewport resized to 347x743, mode Windowed.
+[2022.07.12-06.04.42:154][ 64]LogViewport: Scene viewport resized to 328x743, mode Windowed.
+[2022.07.12-06.04.42:201][ 66]LogViewport: Scene viewport resized to 293x743, mode Windowed.
+[2022.07.12-06.04.42:228][ 67]LogViewport: Scene viewport resized to 271x743, mode Windowed.
+[2022.07.12-06.04.42:261][ 68]LogViewport: Scene viewport resized to 248x743, mode Windowed.
+[2022.07.12-06.04.42:303][ 69]LogViewport: Scene viewport resized to 228x743, mode Windowed.
+[2022.07.12-06.04.42:573][ 95]LogViewport: Scene viewport resized to 237x743, mode Windowed.
+[2022.07.12-06.04.42:610][ 96]LogViewport: Scene viewport resized to 278x743, mode Windowed.
+[2022.07.12-06.04.42:656][ 97]LogViewport: Scene viewport resized to 457x743, mode Windowed.
+[2022.07.12-06.04.42:703][ 99]LogViewport: Scene viewport resized to 679x743, mode Windowed.
+[2022.07.12-06.04.42:753][101]LogViewport: Scene viewport resized to 847x743, mode Windowed.
+[2022.07.12-06.04.42:794][103]LogViewport: Scene viewport resized to 896x743, mode Windowed.
+[2022.07.12-06.04.42:825][104]LogViewport: Scene viewport resized to 902x743, mode Windowed.
+[2022.07.12-06.04.42:960][115]LogViewport: Scene viewport resized to 903x743, mode Windowed.
+[2022.07.12-06.04.43:011][117]LogViewport: Scene viewport resized to 914x743, mode Windowed.
+[2022.07.12-06.04.43:047][119]LogViewport: Scene viewport resized to 931x743, mode Windowed.
+[2022.07.12-06.04.43:098][121]LogViewport: Scene viewport resized to 938x743, mode Windowed.
+[2022.07.12-06.04.43:174][126]LogViewport: Scene viewport resized to 935x743, mode Windowed.
+[2022.07.12-06.04.43:221][128]LogViewport: Scene viewport resized to 925x743, mode Windowed.
+[2022.07.12-06.04.43:266][129]LogViewport: Scene viewport resized to 909x743, mode Windowed.
+[2022.07.12-06.04.43:294][130]LogViewport: Scene viewport resized to 891x743, mode Windowed.
+[2022.07.12-06.04.43:334][131]LogViewport: Scene viewport resized to 860x743, mode Windowed.
+[2022.07.12-06.04.43:383][133]LogViewport: Scene viewport resized to 837x743, mode Windowed.
+[2022.07.12-06.04.43:419][135]LogViewport: Scene viewport resized to 825x743, mode Windowed.
+[2022.07.12-06.04.43:497][140]LogViewport: Scene viewport resized to 819x743, mode Windowed.
+[2022.07.12-06.04.43:546][142]LogViewport: Scene viewport resized to 805x743, mode Windowed.
+[2022.07.12-06.04.43:693][155]LogViewport: Scene viewport resized to 799x743, mode Windowed.
+[2022.07.12-06.04.43:720][156]LogViewport: Scene viewport resized to 796x743, mode Windowed.
+[2022.07.12-06.04.43:770][158]LogViewport: Scene viewport resized to 771x743, mode Windowed.
+[2022.07.12-06.04.43:805][160]LogViewport: Scene viewport resized to 753x743, mode Windowed.
+[2022.07.12-06.04.43:837][161]LogViewport: Scene viewport resized to 752x743, mode Windowed.
+[2022.07.12-06.04.43:998][174]LogViewport: Scene viewport resized to 753x743, mode Windowed.
+[2022.07.12-06.04.44:240][198]LogViewport: Scene viewport resized to 755x743, mode Windowed.
+[2022.07.12-06.04.44:291][200]LogViewport: Scene viewport resized to 762x743, mode Windowed.
+[2022.07.12-06.04.44:329][202]LogViewport: Scene viewport resized to 767x743, mode Windowed.
+[2022.07.12-06.04.44:389][204]LogViewport: Scene viewport resized to 773x743, mode Windowed.
+[2022.07.12-06.04.44:420][205]LogViewport: Scene viewport resized to 777x743, mode Windowed.
+[2022.07.12-06.04.44:468][207]LogViewport: Scene viewport resized to 780x743, mode Windowed.
+[2022.07.12-06.04.44:495][208]LogViewport: Scene viewport resized to 783x743, mode Windowed.
+[2022.07.12-06.04.44:541][210]LogViewport: Scene viewport resized to 788x743, mode Windowed.
+[2022.07.12-06.05.01:109][765]LogViewport: Scene viewport resized to 791x743, mode Windowed.
+[2022.07.12-06.05.01:163][768]LogViewport: Scene viewport resized to 794x743, mode Windowed.
+[2022.07.12-06.05.01:197][770]LogViewport: Scene viewport resized to 795x743, mode Windowed.
+[2022.07.12-06.05.01:249][772]LogViewport: Scene viewport resized to 801x743, mode Windowed.
+[2022.07.12-06.05.01:283][774]LogViewport: Scene viewport resized to 808x743, mode Windowed.
+[2022.07.12-06.05.01:318][775]LogViewport: Scene viewport resized to 827x743, mode Windowed.
+[2022.07.12-06.05.01:363][776]LogViewport: Scene viewport resized to 859x743, mode Windowed.
+[2022.07.12-06.05.01:413][778]LogViewport: Scene viewport resized to 899x743, mode Windowed.
+[2022.07.12-06.05.04:506][ 35]LogViewport: Scene viewport resized to 898x743, mode Windowed.
+[2022.07.12-06.05.04:555][ 37]LogViewport: Scene viewport resized to 913x743, mode Windowed.
+[2022.07.12-06.05.04:590][ 39]LogViewport: Scene viewport resized to 918x743, mode Windowed.
+[2022.07.12-06.05.04:713][ 49]LogViewport: Scene viewport resized to 921x743, mode Windowed.
+[2022.07.12-06.05.04:748][ 51]LogViewport: Scene viewport resized to 927x743, mode Windowed.
+[2022.07.12-06.05.04:799][ 53]LogViewport: Scene viewport resized to 943x743, mode Windowed.
+[2022.07.12-06.05.04:832][ 55]LogViewport: Scene viewport resized to 950x743, mode Windowed.
+[2022.07.12-06.05.04:884][ 57]LogViewport: Scene viewport resized to 967x743, mode Windowed.
+[2022.07.12-06.05.04:917][ 59]LogViewport: Scene viewport resized to 970x743, mode Windowed.
+[2022.07.12-06.05.04:951][ 60]LogViewport: Scene viewport resized to 980x743, mode Windowed.
+[2022.07.12-06.05.05:003][ 62]LogViewport: Scene viewport resized to 1009x743, mode Windowed.
+[2022.07.12-06.05.05:053][ 64]LogViewport: Scene viewport resized to 1034x743, mode Windowed.
+[2022.07.12-06.05.05:094][ 66]LogViewport: Scene viewport resized to 1052x743, mode Windowed.
+[2022.07.12-06.05.05:173][ 68]LogViewport: Scene viewport resized to 1085x743, mode Windowed.
+[2022.07.12-06.05.05:328][ 77]LogViewport: Scene viewport resized to 1109x743, mode Windowed.
+[2022.07.12-06.05.05:386][ 79]LogViewport: Scene viewport resized to 1126x743, mode Windowed.
+[2022.07.12-06.05.05:424][ 81]LogViewport: Scene viewport resized to 1166x743, mode Windowed.
+[2022.07.12-06.05.05:498][ 83]LogViewport: Scene viewport resized to 1196x743, mode Windowed.
+[2022.07.12-06.05.05:608][ 89]LogViewport: Scene viewport resized to 1195x743, mode Windowed.
+[2022.07.12-06.05.06:022][124]LogViewport: Scene viewport resized to 1199x743, mode Windowed.
+[2022.07.12-06.05.23:978][582]LogMaterial: Display: Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.07.12-06.05.23:986][582]LogMaterial: Display: Missing cached shadermap for M_MS_Default_Material in PCD3D_SM5, Default, SM5 (DDC key hash: D30FC455C459C282458E5543FAB06477A81439CF), compiling. 
+[2022.07.12-06.05.26:032][712]LogShaderCompilers: Display: ================================================
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Shaders Compiled: 32
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Jobs assigned 22, completed 1 (4.55%)
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 1.94 s
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Job execution time: average 1.93 s, max 1.93 s
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Job life time (pending + execution): average 1.94 s, max 1.94
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.94 s
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 2.44 jobs/batch
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Average processing rate: 0.52 jobs/sec
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Effective parallelization: 0.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.07.12-06.05.26:033][712]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2022.07.12-06.05.26:034][712]LogShaderCompilers: Display: ================================================
+[2022.07.12-06.05.53:428][465]Cmd: SELECT NONE
+[2022.07.12-06.05.56:734][744]LogViewport: Scene viewport resized to 1193x735, mode Windowed.
+[2022.07.12-06.05.58:215][861]LogViewport: Scene viewport resized to 1199x743, mode Windowed.
+[2022.07.12-06.05.59:377][942]LogViewport: Scene viewport resized to 1193x735, mode Windowed.
+[2022.07.12-06.05.59:849][942]LogViewport: Scene viewport resized to 587x737, mode Windowed.
+[2022.07.12-06.06.24:843][ 54]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_782B4681C9FE502201_1877922145 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4V/JANJA4ZF5YWRPTS8BL791Y.PackageMetaData in its package
+[2022.07.12-06.06.24:843][ 54]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_782B4681C9FE502201_1868178144 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/WN/Z7Z7ID6WKWSN7L839KNK8P.PackageMetaData in its package
+[2022.07.12-06.06.24:857][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.07.12-06.06.24:873][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OE/PIRFYG5FHIH2LMLVANKKE7_Auto1
+[2022.07.12-06.06.24:873][ 54]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/PIRFYG5FHIH2LMLVANKKE7_Auto1F06EB9834C34643E023DFEBA2FD0C09E.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OE/PIRFYG5FHIH2LMLVANKKE7_Auto1.uasset'
+[2022.07.12-06.06.24:877][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3_Auto1
+[2022.07.12-06.06.24:878][ 54]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/SWSI13675DVYIZ0N4NF7Y3_Auto1E98C1F9E45128BE07A0795B2A1033C76.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3_Auto1.uasset'
+[2022.07.12-06.06.24:888][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR_Auto1
+[2022.07.12-06.06.24:888][ 54]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/2C6NLIROC1TRGFR9B9CSAR_Auto1959A3DEA42738C0890D4AB9D48E176FB.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR_Auto1.uasset'
+[2022.07.12-06.06.24:890][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.070
+[2022.07.12-06.06.24:890][ 54]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2022.07.12-06.06.24:893][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material] ([1] browsable assets)...
+[2022.07.12-06.06.24:979][ 54]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material]
+[2022.07.12-06.06.24:979][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material]
+[2022.07.12-06.06.24:983][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material_Auto1
+[2022.07.12-06.06.24:983][ 54]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/M_MS_Default_Material_Auto108DD38FB4AE30DD7066456A64685E331.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/Autosaves/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material_Auto1.uasset'
+[2022.07.12-06.06.24:984][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K] ([1] browsable assets)...
+[2022.07.12-06.06.25:016][ 54]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K.MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K]
+[2022.07.12-06.06.25:016][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K]
+[2022.07.12-06.06.25:023][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K_Auto1
+[2022.07.12-06.06.25:023][ 54]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/MI_Small_Limestone_Rocks_Pack_ud140B27B64E9B525875BE32BFEA9589F0.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/Autosaves/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K_Auto1.uasset'
+[2022.07.12-06.06.25:024][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType] ([1] browsable assets)...
+[2022.07.12-06.06.25:064][ 54]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType.S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType]
+[2022.07.12-06.06.25:065][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType]
+[2022.07.12-06.06.25:066][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType_Auto1
+[2022.07.12-06.06.25:066][ 54]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/S_Small_Limestone_Rocks_Pack_udq83F49B694AD22B0A39E04C94C5C7FD97.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/Autosaves/Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/S_Small_Limestone_Rocks_Pack_udqhfcyva_lod3_Var1_FoliageType_Auto1.uasset'
+[2022.07.12-06.06.25:067][ 54]LogFileHelpers: Auto-saving content packages took 0.177
+[2022.07.12-06.06.25:124][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.07.12-06.07.18:443][828]LogViewport: Scene viewport resized to 587x732, mode Windowed.
+[2022.07.12-06.07.28:802][ 72]LogViewport: Scene viewport resized to 587x730, mode Windowed.
+[2022.07.12-06.07.28:877][ 76]LogViewport: Scene viewport resized to 587x726, mode Windowed.
+[2022.07.12-06.07.28:934][ 78]LogViewport: Scene viewport resized to 587x713, mode Windowed.
+[2022.07.12-06.07.28:973][ 80]LogViewport: Scene viewport resized to 587x708, mode Windowed.
+[2022.07.12-06.07.29:061][ 85]LogViewport: Scene viewport resized to 587x700, mode Windowed.
+[2022.07.12-06.07.29:119][ 87]LogViewport: Scene viewport resized to 587x682, mode Windowed.
+[2022.07.12-06.07.29:168][ 88]LogViewport: Scene viewport resized to 587x656, mode Windowed.
+[2022.07.12-06.07.29:248][ 90]LogViewport: Scene viewport resized to 587x526, mode Windowed.
+[2022.07.12-06.07.29:291][ 92]LogViewport: Scene viewport resized to 587x465, mode Windowed.
+[2022.07.12-06.07.29:598][115]LogViewport: Scene viewport resized to 587x441, mode Windowed.
+[2022.07.12-06.07.29:671][117]LogViewport: Scene viewport resized to 587x387, mode Windowed.
+[2022.07.12-06.07.29:713][119]LogViewport: Scene viewport resized to 587x356, mode Windowed.
+[2022.07.12-06.07.29:772][121]LogViewport: Scene viewport resized to 587x341, mode Windowed.
+[2022.07.12-06.07.30:019][140]LogViewport: Scene viewport resized to 587x335, mode Windowed.
+[2022.07.12-06.07.30:086][142]LogViewport: Scene viewport resized to 587x282, mode Windowed.
+[2022.07.12-06.07.30:127][144]LogViewport: Scene viewport resized to 587x264, mode Windowed.
+[2022.07.12-06.07.30:875][181]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K.MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K
+[2022.07.12-06.07.30:878][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-06.07.31:235][181]LogViewport: Scene viewport resized to 588x634, mode Windowed.
+[2022.07.12-06.07.31:276][181]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.12-06.07.41:572][613]LogSlate: Window '색상 선택 툴' being destroyed
+[2022.07.12-06.07.54:929][181]LogSlate: Window '색상 선택 툴' being destroyed
+[2022.07.12-06.07.56:438][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.07.12-06.07.56:470][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.07.12-06.07.56:473][239]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K
+[2022.07.12-06.07.56:474][239]LogSavePackage: Moving '../../../../../../UEproject1/UEProject_Environment/Desert/Saved/MI_Small_Limestone_Rocks_Pack_udE873B5C1468AF8253AA6EF93E30458F5.tmp' to '../../../../../../UEproject1/UEProject_Environment/Desert/Content/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K.uasset'
+[2022.07.12-06.07.56:487][239]AssetCheck: New page: 에셋 저장:  MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K
+[2022.07.12-06.07.56:487][239]LogContentValidation: Display: MaterialInstanceConstant /Game/Megascans/3D_Assets/Small_Limestone_Rocks_Pack_udqhfcyva/MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K.MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K 유효성 검사 중
+[2022.07.12-06.07.57:354][285]LogSlate: Window 'MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K' being destroyed
+[2022.07.12-06.07.57:372][285]LogSlate: Window 'MI_Small_Limestone_Rocks_Pack_udqhfcyva_2K' being destroyed
+[2022.07.12-06.07.57:382][285]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-06.07.57:382][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-06.08.12:647][ 53]LogViewport: Scene viewport resized to 587x262, mode Windowed.
+[2022.07.12-06.08.12:739][ 54]LogViewport: Scene viewport resized to 587x261, mode Windowed.
+[2022.07.12-06.08.13:099][ 78]LogViewport: Scene viewport resized to 587x264, mode Windowed.
+[2022.07.12-06.08.13:427][104]LogViewport: Scene viewport resized to 587x258, mode Windowed.
+[2022.07.12-06.08.13:482][106]LogViewport: Scene viewport resized to 587x229, mode Windowed.
+[2022.07.12-06.08.13:526][108]LogViewport: Scene viewport resized to 587x211, mode Windowed.
+[2022.07.12-06.08.13:586][110]LogViewport: Scene viewport resized to 587x209, mode Windowed.
+[2022.07.12-06.08.13:651][114]LogViewport: Scene viewport resized to 587x203, mode Windowed.
+[2022.07.12-06.08.13:690][116]LogViewport: Scene viewport resized to 587x190, mode Windowed.
+[2022.07.12-06.08.13:846][126]LogViewport: Scene viewport resized to 587x206, mode Windowed.
+[2022.07.12-06.08.13:901][128]LogViewport: Scene viewport resized to 587x259, mode Windowed.
+[2022.07.12-06.08.13:954][130]LogViewport: Scene viewport resized to 587x310, mode Windowed.
+[2022.07.12-06.08.14:002][131]LogViewport: Scene viewport resized to 587x345, mode Windowed.
+[2022.07.12-06.08.14:056][133]LogViewport: Scene viewport resized to 587x384, mode Windowed.
+[2022.07.12-06.08.14:097][135]LogViewport: Scene viewport resized to 587x439, mode Windowed.
+[2022.07.12-06.08.14:164][137]LogViewport: Scene viewport resized to 587x528, mode Windowed.
+[2022.07.12-06.08.14:215][139]LogViewport: Scene viewport resized to 587x596, mode Windowed.
+[2022.07.12-06.08.14:288][141]LogViewport: Scene viewport resized to 587x667, mode Windowed.
+[2022.07.12-06.08.14:339][142]LogViewport: Scene viewport resized to 587x703, mode Windowed.
+[2022.07.12-06.08.14:397][144]LogViewport: Scene viewport resized to 587x726, mode Windowed.
+[2022.07.12-06.08.14:437][146]LogViewport: Scene viewport resized to 587x734, mode Windowed.
+[2022.07.12-06.09.12:167][691]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.07.12-06.09.12:245][691]LogTexture: Display: 텍스처 빌드 중: /Game/Megascans/3D_Plants/Leafy_Nineawn_tlijciuia/T_Leafy_Nineawn_tlijciuia_Billboard_N.T_Leafy_Nineawn_tlijciuia_Billboard_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 40.000MB), 인코딩 속도: Fast
+[2022.07.12-06.09.12:245][691]LogTexture: Display: 텍스처 빌드 중: /Game/Megascans/3D_Plants/Leafy_Nineawn_tlijciuia/T_Leafy_Nineawn_tlijciuia_Billboard_D.T_Leafy_Nineawn_tlijciuia_Billboard_D(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 40.000MB), 인코딩 속도: Fast
+[2022.07.12-06.09.12:245][691]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.078 s
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: === Handled ensure: ===
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: 
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: Ensure condition failed: InLevel->GetWorld()->GetSubsystem<UActorPartitionSubsystem>()->IsLevelPartition() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Foliage\Private\InstancedFoliage.cpp] [Line: 2845]
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: 
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: Stack: 
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff8d8fc2fbe UnrealEditor-Foliage.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff85be266dd UnrealEditor-MegascansPlugin.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff85be41b96 UnrealEditor-MegascansPlugin.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff85be408e7 UnrealEditor-MegascansPlugin.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff85be324bb UnrealEditor-MegascansPlugin.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff85be4a031 UnrealEditor-MegascansPlugin.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff882e19529 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff8832ed564 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff883c7a666 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff6baa682f6 UnrealEditor.exe!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff6baa80d9c UnrealEditor.exe!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff6baa80e8a UnrealEditor.exe!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff6baa83c4d UnrealEditor.exe!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff6baa95564 UnrealEditor.exe!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff6baa98736 UnrealEditor.exe!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff92e9054e0 KERNEL32.DLL!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: [Callstack] 0x00007ff92fd6485b ntdll.dll!UnknownFunction []
+[2022.07.12-06.09.12:245][691]LogOutputDevice: Error: 
