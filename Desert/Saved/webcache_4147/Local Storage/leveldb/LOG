@@ -1,6 +1,3 @@
-2022/07/15-15:41:04.596 1fbc Reusing MANIFEST C:/UEproject1/UEProject_Environment/Desert/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2022/07/15-15:41:04.599 1fbc Recovering log #3
-2022/07/15-15:41:04.601 1fbc Reusing old log C:/UEproject1/UEProject_Environment/Desert/Saved/webcache_4147\Local Storage\leveldb/000003.log 
-2022/07/15-15:45:19.235 1ba0 Level-0 table #5: started
-2022/07/15-15:45:19.242 1ba0 Level-0 table #5: 13745 bytes OK
-2022/07/15-15:45:19.244 1ba0 Delete type=0 #3
+2022/07/18-16:36:15.196 58d8 Reusing MANIFEST C:/UEproject1/UEProject_Environment/Desert/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2022/07/18-16:36:15.196 58d8 Recovering log #4
+2022/07/18-16:36:15.197 58d8 Reusing old log C:/UEproject1/UEProject_Environment/Desert/Saved/webcache_4147\Local Storage\leveldb/000004.log 
